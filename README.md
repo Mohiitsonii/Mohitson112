@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohitson112
+- 👋 Hi, I’m @Mohitsoni112
 - 👀 I’m interested in ... Web development, Android development
 - 🌱 I’m currently learning ...Competetive Programing
 - 💞️ I’m looking to collaborate on ...
